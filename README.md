@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Cloud Detection Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Sentinel Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
