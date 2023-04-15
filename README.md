@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently junior sysadmin in a mainly Windows-based environment with some cybersecurity responsibilities. In my free time, I develop personal projects that incorporate other skills that I possess such as network engineering, front-end developoment, and Python automation.
+I'm currently junior sysadmin in a mainly Windows-based environment with some cybersecurity responsibilities. In my free time, I develop personal projects that incorporate other skills that I possess such as network engineering, front-end developoment, and Python automation. I am actively pursuing a numer of certifications that emphasize cyber defense and penetration testing.
+
+![I'm hacking the mainframe} (
 
 # Projects:
 - [Azure Threat Detection Lab](https://github.com/JAlexander35/MS-Azure-Dectection-Lab)
