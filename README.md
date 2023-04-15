@@ -2,7 +2,7 @@
 I'm currently junior sysadmin in a mainly Windows-based environment with some cybersecurity responsibilities. In my free time, I develop personal projects that incorporate other skills that I possess such as network engineering, front-end developoment, and Python automation.
 
 # Projects:
-
+Azure Threat Detection Lab
 
 
 ## 🌐 Socials:
