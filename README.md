@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm currently junior sysadmin in a mainly Windows-based environment with some cybersecurity responsibilities. In my free time, I develop personal projects that incorporate other skills that I possess such as network engineering, front-end developoment, and Python automation.
 
+# Projects:
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/justin.alexander.731) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/justin-alexander-b72a56151/) 
