@@ -6,6 +6,7 @@ I'm currently a junior sysadmin in a mainly Windows and Linux -based environment
 # Projects:
 - [Azure Threat Detection Lab](https://github.com/JAlexander35/MS-Azure-Dectection-Lab)
 - [Basic Keylogger (using Python)](https://github.com/JAlexander35/Keylogger/blob/main/README.md)
+- [Restaurant Web App (using JavaScript)](https://github.com/JAlexander35/RestaurantWebApp)
 
 
 ## 🌐 Socials:
