@@ -7,7 +7,7 @@ I'm currently a junior sysadmin in a mainly Windows and Linux -based environment
 - [Azure Threat Detection Lab](https://github.com/JAlexander35/MS-Azure-Dectection-Lab)
 - [Basic Keylogger (using Python)](https://github.com/JAlexander35/Keylogger/blob/main/README.md)
 - [Restaurant Web App (using JavaScript)](https://github.com/JAlexander35/RestaurantWebApp)
-
+- [Metasploit Penetration Testing Lab (Using Kali VM)](https://github.com/JAlexander35/Metasploit-Pentest-Lab)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/justin.alexander.731/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnNxPs1D7R1%2B6rCKNV%2Bp36A%3D%3D) 
